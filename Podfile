@@ -1,4 +1,4 @@
-platform :ios, '6.0'
+platform :ios, '8.0'
 
 podspec :path => "./AFNetworking-RACExtensions.podspec"
 pod 'Specta', '~> 0.1.11'
